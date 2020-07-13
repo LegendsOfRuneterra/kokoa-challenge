@@ -36,9 +36,12 @@
 }
 
 .suggestion .suggestion__icon {
-  background-color: #fce006;
+  background-color: #fe6f61;
   padding: 10px;
   border-radius: 10px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .suggestion__icon {

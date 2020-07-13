@@ -9,8 +9,14 @@
   border-radius: 38%;
 }
 
+.friend .my-avatar {
+  background-image: url("../images/eggsellent.jpg");
+  background-size: cover;
+}
+
 .friend__avatar.g-avatar {
   width: 70px;
+  height: 70px;
 }
 
 .friend__avatar.m-avatar {
@@ -45,7 +51,7 @@
 }
 
 .friend .friend__now-listening {
-  border: 1px solid #52e084;
+  border: 1px solid #fe6f61;
   padding: 5px 10px;
   border-radius: 15px;
   font-size: 14px;
@@ -53,6 +59,7 @@
 
 .friend__now-listening span {
   opacity: 0.7;
+  margin-right: 5px;
 }
 
 .friend__now-listening i {
