@@ -18,7 +18,6 @@
 .more__btn .more__btn-title {
   font-size: 14px;
   margin-top: 15px;
-  align-self: center;
 }
 
 .more .more__suggestions {
@@ -34,6 +33,7 @@
 .suggestion .suggestion__title {
   font-size: 12px;
   margin-top: 15px;
+  align-self: center;
 }
 
 .suggestion .suggestion__icon {
